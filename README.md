@@ -1,2 +1,2 @@
-# puzzel
- puzzel  is a large family game
+# puzzle
+ puzzle  is a large family game
